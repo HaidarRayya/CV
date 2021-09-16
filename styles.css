@@ -1,0 +1,98 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+p{
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+   
+}
+h1{
+    margin: 50px auto 0 auto ;
+    font-size: 4.625rem ;
+    color: #0230304f;
+    line-height: 1.6;
+}
+h2 {
+font-size: 2rem;
+    color: #66BfBF;
+}
+h3{
+    color: #66BfBF;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    line-height: 2  ;
+   
+}
+.java-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+   
+}
+
+.web-img{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+.btn{
+  
+    border-radius:  10px; ;
+    background-color:#66BfBF ;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 75px;
+    padding: 10px;
+  text-decoration: none;
+
+
+}
+.contact-me h2{
+    margin: 15px auto ;
+}
+.contact-me{
+    padding: 10px 0;
+    border-top-width: 10px;
+     
+}
+
+.bottom-container{
+    padding: 20px 0 10px 0;
+    margin-top: 20px;
+    background-color: #66BfBF;
+    color: white;
+    
+}
+.footer-link{
+ margin: 10px;
+    text-decoration: none;
+}
